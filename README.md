@@ -1,10 +1,9 @@
-# Pneumonia-detection-H-mask
-Pneumonia Detection in Chest X-ray using AI-driven H-mask Techniques
+# Pneumonia Detection in Chest X-ray using AI-driven H-mask Techniques
 
-Project Overview
+## Project Overview
 In this project, I explore the application of parametrized H-mask techniques for the detection of pneumonia in chest X-ray images. The goal is to demonstrate that these H-masks can effectively capture spatially distinguishable features (biomarkers) relevant to pneumonia. The project not only contributes to the enhancement of deep learning models but also transforms them into explainable AI models.
 
-Key Features
+## Key Features
 Parametrized H-mask Technique: Implementation and demonstration of a parametrized H-mask technique for spatial feature extraction in chest X-ray images.
 
 Pneumonia Detection: Utilization of H-mask to enhance the detection accuracy of pneumonia in chest X-ray images.
@@ -27,10 +26,10 @@ The trained models are used for pneumonia detection in chest X-ray images, showc
 Visual Representation
 For a visual representation of the concept of a parametrized H-mask, please refer to the attached image.
 
-Results
+## Results
 The project demonstrates that the use of parametrized H-masks enhances the interpretability of deep learning models, making them more effective in detecting pneumonia in chest X-ray images.
 
-Dependencies
+## Dependencies
 Python 3.x
 TensorFlow
 OpenCV
